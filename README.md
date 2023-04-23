@@ -3,7 +3,7 @@ Assignment work for data structure class
 
 
 
-As2.java : Main program
+As2.java : Main class
 
 DList, DNode, DIter : Classes for doubly linked list
 
